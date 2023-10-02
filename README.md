@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Shinde</h1>
 <h3 align="center">A Web Wizard who loves to create Utility Web Application</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonicai7471&label=Profile%20views&color=0e75b6&style=flat" alt="sonicai7471" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhdevstack&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhdevstack" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonicai7471" alt="sonicai7471" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhdevstack" alt="kaustubhdevstack" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/krybone" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/krybone?logo=twitter&style=for-the-badge" alt="https://twitter.com/krybone" /></a> </p>
+<p align="left"> <a href="https://twitter.com/krybone" target="blank"><img src="https://img.shields.io/twitter/follow/krybone?logo=twitter&style=for-the-badge" alt="krybone" /></a> </p>
 
 - 🔭 I’m currently working on [Stack UI](https://stackui.co)
 
 - 🌱 I’m currently learning **Tailwind CSS, Next JS, Typescript**
 
-- 👯 I’m looking to collaborate on [Stack UI](https://github.com/sonicai7471/stackui)
+- 👯 I’m looking to collaborate on [Stack UI](https://github.com/kaustubhdevstack)
 
-- 🤝 I’m looking for help with [Stack UI](https://github.com/sonicai7471/stackui)
+- 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack)
 
 - 👨‍💻 All of my projects are available at [https://kaustubhdev.netlify.app](https://kaustubhdev.netlify.app)
 
@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/stack-ui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/stack-ui" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/krybone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/krybone" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/krybone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/krybone" height="30" width="40" /></a>
+<a href="https://twitter.com/krybone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krybone" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kaustubh-shinde-wcss3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-shinde-wcss3/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18572110/kaustubh-shinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18572110/kaustubh-shinde" height="30" width="40" /></a>
 <a href="https://instagram.com/kshindeofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kshindeofficial" height="30" width="40" /></a>
@@ -44,8 +44,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/stackui"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="stackui" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonicai7471&show_icons=true&locale=en&layout=compact" alt="sonicai7471" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhdevstack&show_icons=true&locale=en&layout=compact" alt="kaustubhdevstack" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonicai7471&show_icons=true&locale=en" alt="sonicai7471" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaustubhdevstack&show_icons=true&locale=en" alt="kaustubhdevstack" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonicai7471&" alt="sonicai7471" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhdevstack&" alt="kaustubhdevstack" /></p>
