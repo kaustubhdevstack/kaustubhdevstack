@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Tailwind CSS, Next JS, Typescript**
 
-- 👯 I’m looking to collaborate on [Stack UI](https://github.com/kaustubhdevstack)
+- 👯 I’m looking to collaborate on [Stack UI](https://github.com/kaustubhdevstack/stackui)
 
-- 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack)
+- 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack/stackui)
 
 - 👨‍💻 All of my projects are available at [https://kaustubhdev.netlify.app](https://kaustubhdev.netlify.app)
 
