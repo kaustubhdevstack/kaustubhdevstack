@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack/stackui)
 
-- 👨‍💻 All of my projects are available at [https://kaustubhdev.netlify.app](https://kaustubhdev.netlify.app)
+- 👨‍💻 All of my projects are available at [https://kaustubhdev.vercel.app](https://kaustubhdev.vercel.app)
 
 - 📝 I regularly write articles on [https://dev.to/krybone](https://dev.to/krybone)
 
@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sonicai.me@gmail.com**
 
-- 📄 Know about my experiences [https://kaustubhdev.netlify.app](https://kaustubhdev.netlify.app)
+- 📄 Know about my experiences [https://kaustubhdev.vercel.app](https://kaustubhdev.vercel.app)
 
 - ⚡ Fun fact **I try to stay low because I am scared of Heights**
 
