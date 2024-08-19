@@ -7,25 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/krybone" target="blank"><img src="https://img.shields.io/twitter/follow/krybone?logo=twitter&style=for-the-badge" alt="krybone" /></a> </p>
 
-- 🔭 I’m currently working on [Stack UI](https://stackui.co)
+- 🔭 I’m currently working as Freelance Social Media Manager & Web Developer
 
-- 🌱 I’m currently learning **Tailwind CSS, Next JS, Typescript**
+- 🌱 I’m currently developing with **Tailwind CSS, Next JS, Typescript**
 
 - 👯 I’m looking to collaborate on [Stack UI](https://github.com/kaustubhdevstack/stackui)
 
 - 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack/stackui)
 
-- 👨‍💻 All of my projects are available at [https://kaustubhdev.vercel.app](https://kaustubhdev.vercel.app)
-
 - 📝 I regularly write articles on [https://dev.to/krybone](https://dev.to/krybone)
 
-- 💬 Ask me about **React, Vue, CodeIgniter 4, PHP, Node JS, MySQL, HTML5, CSS3, JavaScript**
+- 💬 Ask me about **React, Nextjs, Prisma, Supabase, CodeIgniter 4, PHP, Node JS, MySQL, Postgress SQL, Mongo DB, HTML5, CSS3, JavaScript**
 
 - 📫 How to reach me **sonicai.me@gmail.com**
 
-- 📄 Know about my experiences [https://kaustubhdev.vercel.app](https://kaustubhdev.vercel.app)
+- 📄 Know about my experiences [https://www.linkedin.com/in/kaustubh-shinde-wcss3/](https://www.linkedin.com/in/kaustubh-shinde-wcss3/)
 
-- ⚡ Fun fact **I try to stay low because I am scared of Heights**
+- ⚡ Fun fact **I am an all rounder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
