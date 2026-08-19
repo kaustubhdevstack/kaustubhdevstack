@@ -11,10 +11,6 @@
 
 - 🌱 I’m currently developing with **Tailwind CSS, Next JS, Typescript**
 
-- 👯 I’m looking to collaborate on [Stack UI](https://github.com/kaustubhdevstack/stackui)
-
-- 🤝 I’m looking for help with [Stack UI](https://github.com/kaustubhdevstack/stackui)
-
 - 📝 I regularly write articles on [https://dev.to/krybone](https://dev.to/krybone)
 
 - 💬 Ask me about **React, Nextjs, Prisma, Supabase, CodeIgniter 4, PHP, Node JS, MySQL, Postgress SQL, Mongo DB, HTML5, CSS3, JavaScript**
